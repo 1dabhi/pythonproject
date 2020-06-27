@@ -1,4 +1,4 @@
-
+#FINDIN ANAGRAM
 l = eval(input("Enter a list: "))
 dup = []
 for i in l:

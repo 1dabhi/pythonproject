@@ -1,4 +1,4 @@
-#Finding anagrams from a list
+
 l = eval(input("Enter a list: "))
 dup = []
 for i in l:
